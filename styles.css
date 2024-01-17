@@ -1,0 +1,30 @@
+
+.card{
+    display:flex;
+    justify-content:center;
+    background:#ffd900;
+    border: 10px solid #ff9900;
+    width:550px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    
+    
+}
+
+.photo{
+    padding:19px;
+   
+    
+}
+
+.info{
+ margin-left:25px;
+ text-align:center;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: 15px;
+ color:#001a2c;
+ text-shadow:3px 2px 4px  red
+}
+
+
