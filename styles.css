@@ -2,8 +2,8 @@
 .card{
     display:flex;
     justify-content:center;
-    background:#ffd900;
-    border: 10px solid #ff9900;
+    background:linear-gradient(#ffd900,#ff9900);
+   
     width:550px;
     margin-left:auto;
     margin-right:auto;
